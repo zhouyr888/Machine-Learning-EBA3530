@@ -14,6 +14,7 @@ Lecture_2/slides.pdf
 Lecture_2/.ipynb_checkpoints
 Lecture_5/plot_multicollinearity_notes.ipynb
 Lecture_5/*.pdf
+Lecture_5/current_M.csv
 Tutorials/Extra_Tutorial_1
 Tutorials/Tutorial_3
 Tutorials/Tutorial__1/Lecture_2.ipynb
@@ -21,7 +22,6 @@ Tutorials/Tutorial__2
 Tutorials/Tutorial__3
 Tutorials/Tutorial__4
 Lecture_2/Lecture_2.ipynb
-Lecture_5
 Lecture_6
 Lecture_7
 *.xlsx
